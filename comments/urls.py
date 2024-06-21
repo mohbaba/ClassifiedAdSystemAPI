@@ -1,4 +1,9 @@
 from django.urls import path
 
-urlpatterns = []
+from comments import views
+
+urlpatterns = [
+     path('comments', views.comment_on_post)
+
+]
 
