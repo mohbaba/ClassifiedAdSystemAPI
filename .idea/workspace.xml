@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fea969af-5866-49df-a432-f9e0b90d3e97" name="Changes" comment="" />
+    <list default="true" id="fea969af-5866-49df-a432-f9e0b90d3e97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/static/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/classifiedAdSystemAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/classifiedAdSystemAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifiedAdSystemAPI/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifiedAdSystemAPI/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +66,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\ClassifiedAdSystemAPI\users\templates\registration" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="classifiedAdSystemAPI" type="Python.DjangoServer" factoryName="Django server">
       <module name="classifiedAdSystemAPI" />
