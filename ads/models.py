@@ -4,7 +4,7 @@ from users.models import User
 
 # Create your models here.
 class Ad(models.Model):
-    id = models.CharField(primary_key=True, max_length=100)
+    id = models.IntegerField(primary_key=True)
     title = models.CharField(max_length=255)
     description = models.TextField()
     image = models.ImageField(upload_to='ads/images/', null=True, blank=True)
