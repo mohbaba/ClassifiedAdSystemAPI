@@ -15,6 +15,7 @@ def register(request):
             raw_password = form.cleaned_data.get('password1')
             user = authenticate(username=username, password=raw_password)
             if user is not None:
+
                 login(request, user)
                 return redirect('/admin')
     else:
