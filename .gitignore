@@ -1,0 +1,8 @@
+# ignore all files in the tmp directory
+tmp/
+
+# ignore all files with the .log extension
+*.log
+
+# ignore the file named "secret.json"
+secret.json
