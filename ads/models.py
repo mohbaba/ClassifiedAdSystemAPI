@@ -15,6 +15,5 @@ class Ad(models.Model):
     Category = [('ELECTRONIC', 'Electronic'), ('REAL_ESTATE', 'Real Estate'), ('FASHION', 'Fashion')]
     category = models.CharField(max_length=20, choices=Category)
 
-
     def __str__(self):
         return self.title

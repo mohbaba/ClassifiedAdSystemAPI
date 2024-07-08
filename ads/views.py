@@ -5,7 +5,7 @@ from rest_framework.response import Response
 
 from ads.models import Ad
 from ads.serializer import AdSerializer, UserSerializer
-from users.models import User
+
 
 
 # Create your views here.
